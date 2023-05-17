@@ -23,7 +23,7 @@ float: inline-start;
 }
 
 
-}
+
 .persons{
     height: 130px;
     width: 468px;
@@ -31,10 +31,18 @@ float: inline-start;
 
 
 }
+ 
 
-footer {
+ .footer {
+    text-align: center;
+    background-color: gray;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    bottom: 0;
+    width: 60%;
     
-    background-color: white;
-    font-weight: bold;
-    font-size: 90%
+    
+    
+    
 }
