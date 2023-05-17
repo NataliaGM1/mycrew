@@ -1,7 +1,40 @@
+.logo{
+    float: left;
+ width: 100px;
+ height: 100px;
+
+
+}
+.banner{
+text-align: center;
+float: inline-start;
+}
+.b2{
+    width: 1080px;
+    height: 90px;
+    
+  }
+.btn{
+    text-align: right;
+    float: top;
+    margin: 3px;
+  padding: 20px;
+
+}
+
+
+}
 .persons{
     height: 130px;
-    width: 130px;
+    width: 468px;
     margin: auto;
 
 
+}
+
+footer {
+    
+    background-color: white;
+    font-weight: bold;
+    font-size: 90%
 }
