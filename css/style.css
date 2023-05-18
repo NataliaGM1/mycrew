@@ -43,7 +43,36 @@ float: inline-start;
 
 }
  
-
+.person1{
+  float: auto;
+  width: 100px;
+  height: 100px;
+}
+.person2{
+  float: auto;
+  width: 100px;
+  height: 100px;
+}
+.person3{
+  float: auto;
+  width: 100px;
+  height: 100px;
+}
+.person4{
+  float: auto;
+  width: 100px;
+  height: 100px;
+}
+.person5{
+  float: auto;
+  width: 100px;
+  height: 100px;
+}
+.person6{
+  float: auto;
+  width: 100px;
+  height: 100px;
+}
  .footer {
     text-align: center;
     background-color: gray;
