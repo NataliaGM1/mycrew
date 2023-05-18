@@ -1,6 +1,6 @@
 # My Crew
 Hemos creado una página web estática, será para uso interno, y se utilizará para realizar el onboarding a los nuevos miembros.
-Nos exigio el cliente que aparecieran las siguientes pautas:
+Nos exigió el cliente que aparecieran las siguientes pautas:
 -La página debe tener un encabezado con el nombre del equipo
 -Un logotipo
 -Un banner
