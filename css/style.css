@@ -64,8 +64,20 @@ img {
   height: 250px;
   margin-left: 200px;
 
-
 }
+
+.nombre {
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: large;
+}
+
+.cargo {
+  text-align: center;
+}
+
+
  .footer {
     text-align: center;
     background-color: gray;
