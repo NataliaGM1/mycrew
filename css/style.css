@@ -77,7 +77,10 @@ img {
   text-align: center;
 }
 
-
+.button {
+  text-align: center;
+  
+}
  .footer {
     text-align: center;
     background-color: gray;
