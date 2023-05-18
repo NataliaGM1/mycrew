@@ -21,3 +21,9 @@ Nos exigió el cliente que aparecieran las siguientes pautas:
 -Un sección de las herramientas utilizadas por el equipo
 
 -Un pie de página con el símbolo de copyright y el nombre del equipo
+
+Contributors:
+
+maesga1 María Espartero García
+
+NataliaGM1 Natalia Gabriela M.
