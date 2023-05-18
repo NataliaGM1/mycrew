@@ -44,34 +44,35 @@ float: inline-start;
 }
  
 .person1{
-  float: auto;
-  width: 100px;
-  height: 100px;
+  float: left;
+  width: 200px;
+  height: 200px;
 }
 .person2{
-  float: auto;
-  width: 100px;
-  height: 100px;
+  float: left;
+  width: 200px;
+  height: 200px;
+  
 }
 .person3{
-  float: auto;
-  width: 100px;
-  height: 100px;
+  float: right;
+  width: 200px;
+  height: 200px;
 }
 .person4{
-  float: auto;
-  width: 100px;
-  height: 100px;
+  float: right;
+  width: 200px;
+  height: 200px;
 }
 .person5{
-  float: auto;
-  width: 100px;
-  height: 100px;
+  float: left;
+  width: 200px;
+  height: 200px;
 }
 .person6{
-  float: auto;
-  width: 100px;
-  height: 100px;
+  float: right;
+  width: 200px;
+  height: 200px;
 }
  .footer {
     text-align: center;
