@@ -48,7 +48,8 @@ float: inline-start;
 }
 
 .persons::after {
- 
+  padding-right: 20px;
+  margin-left: 5px;
   content: "";
   clear: both;
   display: table;
