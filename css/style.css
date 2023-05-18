@@ -1,3 +1,14 @@
+body {
+  margin: 0;
+  background-color: white;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+
+
 .logo{
     float: left;
  width: 100px;
@@ -36,11 +47,9 @@ float: inline-start;
  .footer {
     text-align: center;
     background-color: gray;
-    height: 50px;
-    line-height: 50px;
-    position: absolute;
+    padding: 1em 0;
+    margin-top: auto;
     bottom: 0;
-    width: 60%;
     
     
     
