@@ -33,46 +33,27 @@ float: inline-start;
 
 }
 
-
-
-.persons{
-    height: 130px;
-    width: 468px;
-    margin: auto;
-
-
+* {
+  box-sizing: border-box;
 }
- 
-.person1{
+
+.colum {
+
   float: left;
-  width: 200px;
-  height: 200px;
+  width: 33%;
+  padding-right: 5px;
 }
-.person2{
-  float: left;
+
+.persons::after {
   width: 200px;
-  height: 200px;
-  
+  right: 200px;
+  content: "";
+  clear: both;
+  display: table;
 }
-.person3{
-  float: right;
-  width: 200px;
-  height: 200px;
-}
-.person4{
-  float: right;
-  width: 200px;
-  height: 200px;
-}
-.person5{
-  float: left;
-  width: 200px;
-  height: 200px;
-}
-.person6{
-  float: right;
-  width: 200px;
-  height: 200px;
+
+img {
+  width: 100%;
 }
  .footer {
     text-align: center;
